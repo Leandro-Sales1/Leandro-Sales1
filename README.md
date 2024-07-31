@@ -8,7 +8,7 @@ Since I was a child, I have loved games and techs. I have increasingly specializ
 ## 🚀 Sobre mim.   About me.
 Meu foco principal é desenvolvimento front-end, criando grandes conhecimentos em SPA, com  JavaScript e TypeScript, utilizando o React.
 
-My main focus is front-end development, where I specialize in SPA integrated with JavaScript e TypeScript, using React.
+My main focus is front-end development, where I specialize in SPA integrated with JavaScript and TypeScript, using React.
 ## 🛠 Habilidades.  TechStack
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,sass,figma,nodejs&perline=5)](https://skillicons.dev)
 
