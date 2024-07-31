@@ -16,9 +16,3 @@ My main focus is front-end development, where I specialize in SPA integrated wit
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leandro-sales-portfolio.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-sales1/)
-
-
-<div>
-<a href="https://github.com/Leandro-Sales1/">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Sales1&layout=compact&langs_count=7&theme=transparent"/>
-</div>
