@@ -1,14 +1,16 @@
 
 # Olá, sou o Sales!   Hi there, I'm Sales! 👋
-Sou amante de jogos e tecnologia desde a infância. Com o tempo, tenho me especializado cada vez mais na área de Engenharia de Software. Sendo um profissional bem-humorado, dedicado, organizado e sempre adepto a mudanças.
+Os jogos foram minha porta de entrada para o mundo da tecnologia na infância, despertando minha paixão pela área. Durante o curso de Engenharia de Software, identifiquei-me com o desenvolvimento.
+Sou um profissional bem-humorado, autodidata, dedicado, organizado, responsável, sempre em busca de novos desafios e adaptável às mudanças.
 
-Since I was a child, I have loved games and techs. I have increasingly specialized in the area of Software Engineering. Being a dedicated, organized professional and always willing to make changes.
+Games were my gateway to the world of technology as a child, awakening my passion for the area. During the Software Engineering course, I identified with development.
+I am a good-natured, self-taught, dedicated, organized, responsible professional, always looking for new challenges and adaptable to changes.
 
 
 ## 🚀 Sobre mim.   About me.
-Meu foco principal é desenvolvimento front-end, criando grandes conhecimentos em SPA, com  JavaScript e TypeScript, utilizando o React.
+Meu foco principal é desenvolvimento front-end, com  JavaScript e TypeScript, utilizando o React e Next.js.
 
-My main focus is front-end development, where I specialize in SPA integrated with JavaScript and TypeScript, using React.
+My main focus is front-end development, with JavaScript and TypeScript, using React and Next.js.
 ## 🛠 Habilidades.  TechStack
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,sass,figma,nodejs&perline=5)](https://skillicons.dev)
 
