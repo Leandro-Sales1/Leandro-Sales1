@@ -30,9 +30,6 @@ My approach is focused on building **robust**, **intuitive**, and **user-centric
 
 ## Goal:
 To continuously deliver exceptional, scalable web applications while staying ahead of emerging technologies, ensuring maximum performance, reliability, and a seamless user experience.
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,sass,figma,nodejs&perline=5)](https://skillicons.dev)
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leandro-sales-portfolio.vercel.app/)
 
