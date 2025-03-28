@@ -2,23 +2,27 @@
 
 As a passionate Front-End Developer, I specialize in creating **pixel-perfect**, **mobile-first** web pages and applications, leveraging cutting-edge technologies to build seamless user experiences. With a deep understanding of both front-end and back-end development, I am proficient in designing high-performance, scalable web apps using a combination of **React.js**, **Next.js**, **Node.js**, and **MongoDB**, among others.
 
+
 ## Key Technologies & Tools:
-- **Languages & Frameworks:**  
-  - JavaScript (JS/TS), React.js, Next.js, Node.js, Express.js
+- **Front-End:**  
+  - React.js, Next.js, TypeScript.
 - **State Management:**  
-  - Redux, Recoil
-- **Testing & Automation:**  
-  - Jest, Cypress, Testing Library
+  - Redux, Recoil.
+- **Styling & UI:**
+  - Tailwind CSS, Sass, CSS-in-JS.
+- **Back-End:**
+  - Node.js, Express.js, Nest.js.
 - **Databases:**  
-  - MongoDB, Sequelize
-- **APIs & Architecture:**  
-  - RESTful APIs, GraphQL, WebSocket
-- **Authentication:**  
-  - JWT, OAuth
-- **CSS Frameworks:**  
-  - Tailwind CSS, Sass, CSS-in-JS
-- **Other Tools:**  
-  - Storybook, Webpack, Babel, Git
+  MongoDB, Sequelize, PostgreSQL.
+- **APIs & Integrations:**  
+  - RESTful APIs, GraphQL, WebSocket, Shopify API.
+- **Authentication & Security:**  
+  - JWT, OAuth2.
+- **Testing & Performance:**  
+  - Jest, Cypress, Testing Library, SEO, Lighthouse.
+- **Tools & Methodologies:**
+  - Git, CI/CD, Docker, Storybook, Agile (Scrum, Kanban).
+
 
 ## Core Competencies:
 - **Pixel-perfect Design:** Ensuring responsive and visually stunning web applications with attention to every detail.
